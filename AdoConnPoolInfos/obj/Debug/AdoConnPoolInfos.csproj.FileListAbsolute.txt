@@ -1,0 +1,67 @@
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csc.exe
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csc.exe.config
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csc.rsp
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csi.exe
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csi.rsp
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.AppContext.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.IO.FileSystem.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\vbc.exe
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\vbc.exe.config
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\vbc.rsp
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\VBCSCompiler.exe
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\AdoConnPoolInfos.dll.config
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\AdoConnPoolInfos.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\AdoConnPoolInfos.pdb
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\obj\Debug\AdoConnPoolInfos.csprojResolveAssemblyReference.cache
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\obj\Debug\AdoConnPoolInfos.dll
+c:\users\rainm\documents\visual studio 2017\Projects\AdoConnPoolInfos\AdoConnPoolInfos\obj\Debug\AdoConnPoolInfos.pdb
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csc.exe
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csc.exe.config
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csc.rsp
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csi.exe
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\csi.rsp
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.AppContext.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\vbc.exe
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\vbc.exe.config
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\vbc.rsp
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\VBCSCompiler.exe
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\AdoConnPoolInfos.dll.config
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\AdoConnPoolInfos.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\AdoConnPoolInfos.pdb
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\obj\Debug\AdoConnPoolInfos.dll
+C:\projects\AdoConnPoolInfos\AdoConnPoolInfos\obj\Debug\AdoConnPoolInfos.pdb
